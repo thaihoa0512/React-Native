@@ -24,7 +24,7 @@ export default class ManHinh_ListView extends Component<Props> {
       <View style={styles.container}>
        
         <Text style={styles.instructions}>
-          {instructions} The hien List View new new 234 567
+          {instructions} The hien List View 
         </Text>
       </View>
     );
